@@ -8,5 +8,7 @@
     <string name="title_activity_test">Test</string>
     <string name="title_activity_test2">test2</string>
     <color name="black">#000000</color>
+    <string name="image2">"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/12/14/1323902537523/Samburu-tribal-people-of--013.jpg"</string>
+    <integer name="image2Value">100</integer>
 
 </resources>
